@@ -1,0 +1,75 @@
+
+.headall{
+    background: transparent url('images/9045.svg') 100% 0% no-repeat padding-box;
+    display: flex;
+    align-items: center;
+}
+.left{
+    padding: 20px 50px;
+}
+.right{
+    margin: 100px;
+}
+.user{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+
+}
+.user p{
+    margin: 10px 10px;
+    color: white;
+    text-align: left;
+}
+.invest p{
+    margin: 10px 10px;
+    color: white;
+    text-align: left;
+}
+.invest{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+.rich{
+    color: white;
+    text-align: left;
+    font-size: 15px;
+   
+}
+.word{
+    padding: 0px 10px;
+  
+    
+    
+}
+.headh1{
+    text-align: left;
+    font-size: 50px;
+    font-weight: 700;
+  
+   
+  
+}
+
+.head p{
+    margin-top: -70px;
+    color: white;
+    text-align: left;
+    font-size: 22px;
+}
+
+.word button{
+    text-align: center;
+    /* font: normal normal normal 16px/16px Lato; */
+    
+    color: white;
+    opacity: 1;
+    border-radius: 8px;
+    padding: 10px 0px;
+    width: 130px;
+    margin-top: 5px;
+    align-items: left;
+    margin-left: 0px;
+
+}

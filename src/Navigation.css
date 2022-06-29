@@ -1,0 +1,42 @@
+.container{
+    color: white;
+    /* background: #1F39E0 0% 0% no-repeat padding-box; */
+    
+    padding: 0 10px;
+    margin-right: 50px;
+}
+
+
+
+.Navbutton{
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+    grid-gap: 1em;
+    color: white;
+    margin-right: 10px;
+    padding: 0px 5px;
+    
+}
+#Navlogin{
+    border-radius: 8px;
+    padding: 10px 0px;
+    width: 150px;
+    text-align: center;
+    margin-left: 0px;
+    border: 1px solid white;
+}
+#Navstart{ 
+text-align: center;
+/* font: normal normal normal 16px/16px Lato; */
+letter-spacing: 1px;
+color: white;
+opacity: 1;
+border-radius: 8px;
+padding: 15px 0px;
+width: 120px;
+}
+
+.me-auto{
+    color: white;
+
+}

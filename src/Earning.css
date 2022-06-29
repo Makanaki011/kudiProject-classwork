@@ -1,0 +1,103 @@
+.earn{
+    margin: auto;
+}
+.box{
+    display: grid;
+    grid-template-columns: 4fr 4fr 4fr;
+    grid-gap: 1.5em;
+    margin-bottom: 80px;  
+    padding: 0px 20px;
+    margin-right: 20px;
+  width: 100%;
+  
+}
+.earn h1{
+    color: black;
+    text-align: center;
+   margin-top: 80px;
+}
+.aff{
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.aff img{
+    align-items: center;
+    justify-content: center;
+    margin: 50px 100px;
+
+}
+
+.affl{
+    border: blue solid 1px ;
+    padding: 30px 60px;
+    align-items: center;
+    justify-content: center; 
+   
+  
+}
+.affl h2{
+    text-align: center; 
+    margin: 20px;
+}
+.affl p{
+    color: black;
+    text-align: center;
+}
+.ref{
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.ref img{
+    align-items: center;
+    justify-content: center;
+    margin: 50px 150px;
+
+}
+.refe{
+    border: blue solid 1px ;
+    padding: 30px 20px;
+    align-items: center;
+    justify-content: center; 
+ 
+
+}
+.refe h2{
+    text-align: center; 
+    margin: 20px;
+}
+.refe p{
+    color: black;
+    text-align: center;
+}
+.kudimember{
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  
+}
+.kudimember img{
+    align-items: center;
+    justify-content: center;
+    margin: 50px 150px;
+    
+
+
+}
+.kudiship{
+    border: blue solid 1px ;
+    padding: 30px 20px;
+    align-items: center;
+    justify-content: center; 
+}
+.kudiship h2{
+    text-align: center; 
+    margin: 20px 0px;
+   
+}
+.kudiship p{
+    color: black;
+    text-align: center;
+    
+}

@@ -1,0 +1,47 @@
+.sub{
+    background: transparent linear-gradient(180deg, #021E53 16%, #022759 30%, #032C5D 35%, #1E65FF 100%) 100% 100% no-repeat padding-box;
+opacity: 1;
+padding-bottom: 50px;
+}
+.part-1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 2em;
+    margin-bottom: 100px;
+}
+h1{
+    color: white;
+    margin-bottom: 70px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.standard{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+h3{
+    text-align: center;
+}
+.top{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+p{
+    color: black;
+    text-align: center;
+    
+}
+button{
+  
+    margin: 0 10px;
+    background-color: rgb(45, 45, 252);
+    color: white;
+    padding: 10px 30px;
+    border-style: none;
+    border-radius: 10px;
+   width: 250px;
+   margin-top: 40px;
+   margin-bottom: 20px;
+}
